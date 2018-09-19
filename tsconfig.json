@@ -16,6 +16,14 @@
     "lib": [
       "es2017",
       "dom"
-    ]
+    ],
+    "paths": {
+      "@denysvuika/aca-dev-tools": [
+        "dist/aca-dev-tools"
+      ],
+      "@denysvuika/aca-dev-tools/*": [
+        "dist/aca-dev-tools/*"
+      ]
+    }
   }
 }
