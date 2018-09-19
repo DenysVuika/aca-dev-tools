@@ -11,7 +11,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "build.libs": "ng build aca-dev-tools",
+    "build.lib": "ng build aca-dev-tools && cpr projects/aca-dev-tools/assets dist/@denysvuika/aca-dev-tools/assets --deleteFirst",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
@@ -56,6 +56,7 @@
     "@types/jasminewd2": "~2.0.3",
     "@types/node": "~8.9.4",
     "codelyzer": "~4.3.0",
+    "cpr": "^3.0.1",
     "jasmine-core": "~2.99.1",
     "jasmine-spec-reporter": "~4.2.1",
     "karma": "~3.0.0",
