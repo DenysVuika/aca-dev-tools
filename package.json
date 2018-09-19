@@ -1,6 +1,12 @@
 {
   "name": "aca-dev-tools-workspace",
+  "author": {
+    "name": "Denys Vuika",
+    "email": "denys.vuika@gmail.com",
+    "url": "https://github.com/DenysVuika"
+  },
   "version": "0.0.0",
+  "license": "MIT",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
