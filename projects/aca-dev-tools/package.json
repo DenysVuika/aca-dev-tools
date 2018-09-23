@@ -5,15 +5,15 @@
     "email": "denys.vuika@gmail.com",
     "url": "https://github.com/DenysVuika"
   },
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "peerDependencies": {
     "@alfresco/adf-content-services": "^2.5.0",
     "@alfresco/adf-core": "^2.5.0",
-    "@alfresco/adf-extensions": "^2.6.0-84da24c02ff43ca583fea52ad521c89467c05618",
+    "@alfresco/adf-extensions": "^2.6.0-018b08cce71a46bebdadb9d1ba3c17617de68005",
     "@angular/common": "^6.0.0",
     "@angular/core": "^6.0.0",
-    "@ngstack/code-editor": "^0.4.1",
+    "@ngstack/code-editor": "^0.4.3",
     "showdown": "^1.8.6"
   }
 }
