@@ -11,5 +11,8 @@
         "@alfresco/adf-content-services": "@alfresco/adf-content-services",
         "@alfresco/adf-extensions": "@alfresco/adf-extensions"
     }
-  }
+  },
+  "whitelistedNonPeerDependencies": [
+    "showdown"
+  ]
 }
