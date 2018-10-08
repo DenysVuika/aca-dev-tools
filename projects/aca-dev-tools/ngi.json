@@ -1,0 +1,14 @@
+{
+  "assets": [
+    {
+      "from": "assets/dev.tools.json",
+      "to": "plugins"
+    }
+  ],
+  "modules": [
+    {
+      "name": "AcaDevToolsModule",
+      "namespace": "@denysvuika/aca-dev-tools"
+    }
+  ]
+}
