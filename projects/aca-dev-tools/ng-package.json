@@ -13,6 +13,7 @@
     }
   },
   "whitelistedNonPeerDependencies": [
-    "showdown"
+    "showdown",
+    "@ngstack/code-editor"
   ]
 }
