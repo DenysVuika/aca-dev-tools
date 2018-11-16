@@ -1,6 +1,6 @@
 {
   "name": "@denysvuika/aca-markdown-viewer",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "dependencies": {
     "showdown": "^1.8.6"
   },
