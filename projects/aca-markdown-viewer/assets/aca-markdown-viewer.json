@@ -1,0 +1,16 @@
+{
+  "$version": "1.0.0",
+  "$name": "aca.markdown.viewer",
+  "$description": "ACA dev tools",
+
+  "features": {
+    "viewer": {
+        "content": [
+            {
+                "id": "aca.markdown.viewer",
+                "fileExtension": "md",
+                "component": "aca.markdown.viewer.component"
+            }
+        ]
+    }
+}

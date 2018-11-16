@@ -12,6 +12,7 @@
     "start": "ng serve",
     "build": "ng build",
     "build.lib": "ng build aca-dev-tools && cp projects/aca-dev-tools/ngi.json dist/@denysvuika/aca-dev-tools && cpr projects/aca-dev-tools/assets dist/@denysvuika/aca-dev-tools/assets --deleteFirst",
+    "build.viewer": "ng build aca-markdown-viewer && cp projects/aca-markdown-viewer/ngi.json dist/@denysvuika/aca-markdown-viewer && cpr projects/aca-markdown-viewer/assets dist/@denysvuika/aca-markdown-viewer/assets --deleteFirst",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"

@@ -1,0 +1,14 @@
+{
+  "$schema": "../../node_modules/ng-packagr/ng-package.schema.json",
+  "dest": "../../dist/@denysvuika/aca-markdown-viewer",
+  "lib": {
+    "entryFile": "src/public_api.ts",
+    "umdModuleIds": {
+      "showdown": "showdown",
+      "@alfresco/adf-core": "@alfresco/adf-core"
+    }
+  },
+  "whitelistedNonPeerDependencies": [
+    "showdown"
+  ]
+}

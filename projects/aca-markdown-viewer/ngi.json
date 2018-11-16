@@ -1,0 +1,15 @@
+{
+  "assets": [
+    {
+      "glob": "**/*.json",
+      "input": "./assets",
+      "output": "./assets/plugins"
+    }
+  ],
+  "modules": [
+    {
+      "name": "AcaMarkdownViewerModule",
+      "namespace": "@denysvuika/aca-markdown-viewer"
+    }
+  ]
+}

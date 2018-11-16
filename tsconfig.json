@@ -23,6 +23,12 @@
       ],
       "@denysvuika/aca-dev-tools/*": [
         "dist/aca-dev-tools/*"
+      ],
+      "aca-markdown-viewer": [
+        "dist/aca-markdown-viewer"
+      ],
+      "aca-markdown-viewer/*": [
+        "dist/aca-markdown-viewer/*"
       ]
     }
   }
