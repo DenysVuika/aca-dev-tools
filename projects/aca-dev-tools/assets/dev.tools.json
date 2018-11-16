@@ -31,16 +31,6 @@
                   }
               ]
           }
-      ],
-
-      "viewer": {
-          "content": [
-              {
-                  "id": "dev.tools.viewer.markdown",
-                  "fileExtension": "md",
-                  "component": "dev.tools.viewer.markdown"
-              }
-          ]
-      }
+      ]
   }
 }
